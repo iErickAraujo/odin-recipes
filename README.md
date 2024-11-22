@@ -1,6 +1,6 @@
 # Odin-Recipes - Site de Receitas 🍰
 
-Este projeto é um site de receitas desenvolvido em HTML e CSS com um design moderno e minimalista. O objetivo é compartilhar receitas de forma fácil e intuitiva, com navegação amigável e responsiva para os usuários.
+Este projeto é um site de receitas desenvolvido em HTML e CSS com um design moderno e minimalista do curso de fundamentos do projeto Odin. O objetivo é compartilhar receitas de forma fácil e intuitiva, com navegação amigável e responsiva para os usuários.
 
 ## Índice
 
