@@ -30,7 +30,7 @@ Odin-Recipes/
 │   │   └── estrogonofe-frango.jpg    # Imagem da receita de strogonoff de frango
 │   └── js
 │       └── script.js         # Script JavaScript (para futuras funcionalidades)
-├── README.md                 # Arquivo README com informações sobre o projeto
+└── README.md                 # Arquivo README com informações sobre o projeto
 ```
 
 ## Tecnologias Utilizadas
