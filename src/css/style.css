@@ -110,7 +110,7 @@ body {
 
 /* Parallax Section */
 .parallax {
-  background-image: url("/images/paralax.jpg");
+  background-image: url("/src/images/paralax.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
